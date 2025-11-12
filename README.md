@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **AI-powered apps & data-driven projects**
-- 🌱 I’m learning **Deep Learning, Prompt Engineering & Full-Stack Dev**
+- 🌱 I’m learning **Deep Learning,Full-Stack Dev**
 - 💬 Ask me about **Python, ML, Data Viz, or cool side projects!**
 - 📫 Reach me at **gmalathi2005@gmail.com**
 - ⚡ Fun fact: I don’t just fix bugs — I interrogate them until they confess. 🐞🕵️‍♀️
