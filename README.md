@@ -57,11 +57,11 @@
 
 ### 🚀 Projects
 
-- 🧠 **AI Story Narrator** – GPT-2 + Cohere + TTS for creative story generation  
-- 🌦️ **Weather App** – Ensemble model + MongoDB + Open-Meteo API  
-- 🎵 **Tkinter Music Player** – Audio app with SQLite and GUI  
-- 🗺️ **Treasure Hunt DFS** – Game logic with BFS/DFS AI paths  
-- 📊 **Delivery Log Analyzer** – Python GUI + ML for structured insight
+- 🧠 **STORY NARRATION GENERATOR** – Python, Gradio, Cohere, Stable Diffusion, MoviePy  
+- 🎵 **MUSIC MOOD PLAYLIST GENERATOR** – Python, DeepFace, Kafka, Spark, Streamlit, YouTube API  
+- 💼 **JOB SEARCH PLATFORM** – MERN Stack, BERT, JWT  
+- 📈 **GAMIFIED HABIT TRACKER** – React, Node.js, MongoDB  
+- 🕹️ **SOKOBAN SOLVER GAME** – Python, Tkinter
 
 ---
 
@@ -75,8 +75,9 @@
 
 ### 📜 Certifications
 
-- 🧠 NPTEL – Python, Java, Human-Computer Interaction  
-- 💼 Infosys Springboard – Agile, Software Engineering  
+- 🧠 **NPTEL** – Python, Java, Large Language Models  
+- 💼 **Infosys Springboard** – Associate in IT Foundation Skills (Java, DBMS, NoSQL, Software Engineering, Agile Software Development)  
+- 💻 **Udemy** – Web Development, Mastering AWS Serverless: Hands-on With Core AWS Services
 
 ---
 
@@ -88,9 +89,6 @@
   </a>
   <a href="mailto:gmalathy2005_bai26@mepcoeng.ac.in">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://github.com/Malathi-gokila" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
