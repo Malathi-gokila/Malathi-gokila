@@ -69,7 +69,7 @@
 
 **B.Tech in Artificial Intelligence & Data Science**  
  Mepco Schlenk Enginnering College
-📈 CGPA: 8.14
+📈 CGPA: 8.16
 
 ---
 
